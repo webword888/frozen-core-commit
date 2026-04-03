@@ -68,7 +68,8 @@ python benchmarks/bench_separation.py
 John Rhodes, 2026.
 
 - PDF: [paper/frozen-core-paper-v5f.pdf](paper/frozen-core-paper-v5f.pdf)
-- ePrint: *(forthcoming)*
+- Zenodo: [10.5281/zenodo.19403853](https://zenodo.org/records/19403853)
+- ePrint: *(awaiting review — submitted to IACR Cryptology ePrint Archive)*
 
 ## How It Works
 
